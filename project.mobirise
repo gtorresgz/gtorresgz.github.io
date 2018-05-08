@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "trademarket",
-    "currentPage": "nosotros.html",
+    "currentPage": "calidad.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -93,7 +93,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nathan-dumlao-274731-unsplash-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cocoa-2712368-1920-1920x1440.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -195,7 +195,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/katya-austin-130044-unsplash-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cocoa-farmer-farming-50707-2000x1330.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -206,7 +206,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mike-kenneally-46284-unsplash-1999x1525.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cocoa-2422040-1920-1920x1440.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -217,7 +217,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cocoa-2424452-1920-1920x1285.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -715,7 +715,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chocolates-close-up-cocoa-65882-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
