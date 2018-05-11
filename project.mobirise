@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "trademarket",
-    "currentPage": "index.html",
+    "currentPage": "contacto.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -202,7 +202,7 @@
                 "showTitle": true,
                 "title": "Vision",
                 "contentAlign": "right",
-                "text": "Perseguir la excelencia en la produccion, comercializacion y distribucion del grano de cacao peruano en nuestro pais y el mundo, mediante la utilizacion de tecnologia, materia prima de alta calidad y personal altamente calificado.&nbsp;",
+                "text": "Perseguir la excelencia en la producción, comercialización y distribución del grano de cacao peruano en nuestro país y en el mundo, mediante la utilización de la tecnología e innovación para lograr granos de alta calidad.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -727,8 +727,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Fabricamos Chocolates de gran sabor y alta calidad.",
-          "text": "Somos productores de cacao de alta calidad y generamos productos innovadores como chocolates de exportacion para el mercado euopeo y de nuestra region.",
+          "title": "Comercializamos granos de cacao de alta calidad y organicos.",
+          "text": "Generamos productos innovadores como chocolates de exportacion para el mercado euopeo y de nuestra region.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
